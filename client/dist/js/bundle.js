@@ -1873,4 +1873,4 @@ _jquery["default"].entwine('ss', function ($) {
 
 /******/ })()
 ;
-//# sourceMappingURL=sliderfield.js.map
+//# sourceMappingURL=bundle.js.map
